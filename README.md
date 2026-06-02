@@ -41,3 +41,4 @@ print(timezone); // "Asia/Tokyo"
 |----------|----------------|
 | iOS | `TimeZone.current.identifier` |
 | Android | `TimeZone.getDefault().id` |
+| Web | `Intl.DateTimeFormat().resolvedOptions().timeZone` |

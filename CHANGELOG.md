@@ -1,3 +1,7 @@
+## 1.1.0
+
+* Add Web support (`Intl.DateTimeFormat().resolvedOptions().timeZone`)
+
 ## 1.0.0
 
 * Add Swift Package Manager support for iOS
